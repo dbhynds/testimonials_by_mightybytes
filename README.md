@@ -1,2 +1,2 @@
-# testimonials_by_mightybytes
+# Testimonials by Mightybytes
 Testimonials WordPress plugin for MightyBytes
